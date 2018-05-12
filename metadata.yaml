@@ -1,0 +1,51 @@
+_repo: The-Tale-of-Ginger-and-Pickles_14877
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14877-h/images/ginger_cover2.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Ginger and Pickles (originally, Ginger and Pickles) is a\
+  \ children's book written and illustrated by Beatrix Potter, and first published\
+  \ by Frederick Warne & Co. in 1909. The book tells of two shopkeepers who extend\
+  \ unlimited credit to their customers and, as a result, are forced to go out of\
+  \ business. It was originally published in a large format which permitted Potter\
+  \ the opportunity to lavish great detail on the illustrations and also allowed her\
+  \ to include black-and-white vignettes. Potter filled the tale with characters from\
+  \ her previous books. The book was eventually republished in the standard small\
+  \ format of the Peter Rabbit series and was adapted to drama in 1931.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14877'
+  wikidata: Q4272367
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Stores, Retail -- Juvenile fiction'
+title: The Tale of Ginger and Pickles
+url: http://www.gutenberg.org/ebooks/14877
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%80%8C%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%83%94%E3%82%AF%E3%83%AB%E3%82%BA%E3%82%84%E3%80%8D%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Ginger_and_Pickles
+- https://en.wikisource.org/wiki/The_Tale_of_Ginger_and_Pickles
+- https://en.wikipedia.org/wiki/The_Tale_of_Ginger_and_Pickles
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Ginger_and_Pickles
+- https://id.wikipedia.org/wiki/The_Tale_of_Ginger_and_Pickles
